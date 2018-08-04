@@ -88,6 +88,7 @@ test.describe('Test is started!', function () {
     });
     test.it(`Fill required fields for child(ren)`, function () {
         operator.fillRequiredFields('child', childGender, childLastName, childFirstName, childBirthDate, childCitizenship, childPassportNumber);
-        console.log (`Test is ended!`);
+    });
+    test.it(`Test is ended!`, function () {
     });
 });
