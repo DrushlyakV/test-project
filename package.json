@@ -1,0 +1,16 @@
+{
+  "name": "test-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "run-1.js",
+  "dependencies": {
+    "selenium-webdriver": "^3.6.0",
+    "mocha": "^5.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
